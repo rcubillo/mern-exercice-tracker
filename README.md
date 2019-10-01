@@ -1,3 +1,10 @@
+I need to add a .env file with:
+
+ATLAS_URI: (using the connection string from https://cloud.mongodb.com) 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
